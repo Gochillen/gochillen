@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lenn, This is my new account, the old account cannot be retrieved :sob:
+- 👋 Hi, I’m @Gochillen, This is my new account, the old account cannot be retrieved :sob:
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -8,7 +8,8 @@
 
 :bell: I will continue to improve my profile, coming back soon！！！
 
-![lenn's GitHub stats](https://github-readme-stats.vercel.app/api?username=lenn-track&show_icons=true&theme=tokyonight)
+"Coding， creating， and staying chill —— Gochillen"
+![Gochillen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gochillen&show_icons=true&theme=tokyonight)
 
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/lenn-track/count.svg) visitor, thank you! :cow::cow:
